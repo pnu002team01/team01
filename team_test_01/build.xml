@@ -74,7 +74,7 @@
     	    	
     	    	<structure name="java coverage">
     	    		<classfiles>
-    	    			<filesset dir="bin"/>
+    	    			<fileset dir="bin"/>
     	    		</classfiles>
     	    		<sourcefiles encoding="UTF-8">
     	    			<fileset dir="src"/>
