@@ -64,7 +64,7 @@
     	    		<formatter type="xml"/>
     	    		<test name="team_test_01.CalculatorTest" todir="${junit.output.dir}"/>
     	    		<jvmarg line="-ea"/>
-    	    		<classpath refid="Calculator.classpath"/>
+    	    		<classpath refid="team_test_01.classpath"/>
     	    	</junit>
     	    </jacoco:coverage>
     	    <jacoco:report>
